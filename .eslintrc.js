@@ -1,3 +1,4 @@
+// Initial commit from gatsby
 module.exports = {
   extends: ['airbnb', 'prettier'],
   plugins: ['prettier'],
