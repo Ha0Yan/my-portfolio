@@ -1,4 +1,4 @@
-# Gatsby Simplefolio ⚡️
+# Gatsby Portfolio ⚡️
 
 ## Features
 
