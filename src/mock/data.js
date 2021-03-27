@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I currently am working as a Full Stack Engineer located in Vancouver,BC. I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.',
   paragraphTwo:
-    'I am confident, naturally curious, well-organized person with high attention to detail. Outside of work I have a cat. A big fan of outdoor activities, trying out new recipe in the kitchen',
+    'I am confident, naturally curious, well-organized person with high attention to detail. Outside of work I have a cat. In addition, I am a big fan of outdoor activities, trying out new recipe in the kitchen.',
   paragraphThree:
     ' I would love to get coffee and get to know you, so don’t hesitate to get in touch.',
   resume: 'https://drive.google.com/file/d/1rHEPbeaoT-1YS2JB5ZLk9F8Azrh6R8JM/view?usp=sharing', // if no resume, the button will not show up
