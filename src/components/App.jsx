@@ -4,6 +4,7 @@ import About from './About/About';
 import Projects from './Projects/Projects';
 import Contact from './Contact/Contact';
 import Footer from './Footer/Footer';
+import { Helmet } from "react-helmet"
 
 import { PortfolioProvider } from '../context/context';
 
@@ -26,6 +27,9 @@ function App() {
 
   return (
     <PortfolioProvider value={{ hero, about, projects, contact, footer }}>
+      <Helmet>
+          <meta name="image" property="og:image" content="/src/images/project1.jpg"/>
+      </Helmet>
       <Hero />
       <About />
       <Projects />
