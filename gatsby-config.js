@@ -1,4 +1,7 @@
 module.exports = {
+  siteMetadata: {
+    image: '/src/images/project1.jpg',
+  },
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
