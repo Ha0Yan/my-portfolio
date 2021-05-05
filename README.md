@@ -56,6 +56,9 @@ Using NPM:
 ```bash
 # Install dependencies
 $ npm install
+# or
+$ npm ci
+
 
 # Start development server
 $ npm run develop
